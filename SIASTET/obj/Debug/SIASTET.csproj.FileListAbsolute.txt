@@ -1,0 +1,40 @@
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResGen.read.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResGen.write.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.exe
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.pdb
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.exe
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.pdb
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.FrmMain.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.exe.config
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\ACINOX.dll
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\Infralution.Licensing.dll
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\bin\Debug\ACINOX.pdb
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\GenerateResource.read.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\GenerateResource.write.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.CaptionWindow.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.CodificadorForm.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.SaveableForm.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Codificadores.FrmTipoCombustible.resources
+c:\users\harry\documents\visual studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Codificadores.FrmArtefacto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\SIASTET.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\ACINOX.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\Infralution.Licensing.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\bin\Debug\ACINOX.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Codificadores.FrmTipoCombustible.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Codificadores.FrmArtefacto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.FrmMain.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.CaptionWindow.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.CodificadorForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.SaveableForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\SIASTET.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SIASTET\SIASTET\obj\Debug\ResGen.write.1.tlog

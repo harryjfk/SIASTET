@@ -1,0 +1,86 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCaptionWindow.cs" caret="349" fromTop="14" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCaptionWindow.designer.cs" caret="242" fromTop="9" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCodificadorForm.designer.cs" caret="0" fromTop="0" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCodificadorForm.cs" caret="398" fromTop="19" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:USaveableForm.cs" caret="225" fromTop="10" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:USaveableForm.designer.cs" caret="2524" fromTop="4" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmTipoCombustible.cs" caret="393" fromTop="15" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1965" fromTop="25" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmArtefactos.cs" caret="909" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCodificadorForm.cs" caret="222" fromTop="9" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCodificadorForm.designer.cs" caret="17" fromTop="0" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCaptionWindow.designer.cs" caret="17" fromTop="0" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCaptionWindow.cs" caret="222" fromTop="9" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCaptionWindow.cs" caret="353" fromTop="14" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:UCodificadorForm.cs" caret="401" fromTop="19" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmArtefactos.cs" caret="345" fromTop="10" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1215" fromTop="13" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:USaveableForm.cs" caret="222" fromTop="9" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:USaveableForm.designer.cs" caret="17" fromTop="0" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="942" fromTop="3" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1616" fromTop="23" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1239" fromTop="17" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:USaveableForm.designer.cs" caret="3048" fromTop="13" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmTipoCombustible.cs" caret="302" fromTop="11" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmTipoCombustible.cs" caret="414" fromTop="15" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1948" fromTop="17" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/f:FrmMain.cs" caret="1983" fromTop="18" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmArtefactos.cs" caret="523" fromTop="10" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmArtefactos.cs" caret="909" fromTop="22" />
+      <File id="729DCD62-56FE-40E0-AD1A-DCEF34056119/d:Codificadores/f:FrmArtefactos.cs" caret="1607" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TabAlignment`0" priority="0" />
+      <Item value="t_TipoEquipoTableAdapter" priority="0" />
+      <Item value="dSDatos" priority="0" />
+      <Item value="SIASTET" priority="2" />
+      <Item value="CreateForm`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="CodificadorForm`0" priority="0" />
+      <Item value="FrmTipoCombustible`0" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="FrmArtefacto`0" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="artefacto" priority="0" />
+      <Item value="idartefacto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SIASTET.DSDatosTableAdapters.T_TipoEquipoTableAdapter">
+      <Item value="Fill`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SIASTET.DSDatos">
+      <Item value="T_TipoEquipo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
